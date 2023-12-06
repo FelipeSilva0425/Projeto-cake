@@ -143,7 +143,7 @@ footer{
     padding-top: 15vh;
 }
 #contato{
-    background-image:linear-gradient(to bottom, var(--cor3), var(--cor6));
+    background-image:linear-gradient(to bottom, var(--cor3), pink);
     text-align: center;
     font-weight: lighter;
     border-bottom: 1px solid black;
@@ -162,18 +162,12 @@ footer{
     display: flex;
     flex-direction:auto;
    margin:auto;
-    color: var(--cor7);
+    color: white;
 }
 .endereco{
     align-items: bottom;
     display: flex;
     flex-direction:auto;
    margin:auto;
-    color: var(--cor7);
+    color: white;
 }
-    
-
-
-    
-
-
